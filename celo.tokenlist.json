@@ -240,7 +240,7 @@
     },
     {
       "name": "Celo Japanese Yen",
-      "address": "0xba3ae0F0A78579a5e8C4188dcde60DcCc0Dd4Fab",
+      "address": "0xc45eCF20f3CD864B32D9794d6f76814aE8892e20",
       "symbol": "cJPY",
       "decimals": 18,
        "chainId": 42220,
@@ -269,6 +269,14 @@
       "decimals": 18,
        "chainId": 42220,
       "logoURI": "https://cdn.prod.website-files.com/652d421c1214a2eebd967f1d/683f45a0e318fa05f73c05be_Celo%20Swiss%20Franc.png"
+    },
+    {
+      "name": "Nature Guild",
+      "address": "0x34fA24Edcf5099c6f7e9a89B557C5d766354598E",
+      "symbol": "NATURE",
+      "decimals": 18,
+       "chainId": 42220,
+      "logoURI": "https://cdn.prod.website-files.com/652d421c1214a2eebd967f1d/683f72c7f057f3c927e754f2_nature.png"
     },
    {
       "name": "Uniswap",
