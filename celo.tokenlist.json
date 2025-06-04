@@ -15,7 +15,7 @@
   "tokens": [
     {
       "name": "Celo",
-      "address": "0x8a1639098644a229d08f441ea45a63ae050ee018",
+      "address": "0x471ece3750da237f93b8e339c536989b8978a438",
       "symbol": "CELO",
       "decimals": 18,
       "chainId": 42220,
@@ -85,7 +85,6 @@
       "chainId": 42220,
       "logoURI": "https://raw.githubusercontent.com/mento-protocol/mento-web/refs/heads/main/public/tokens/cEUR.svg"
     },
-  
     {
       "name": "impactMarket",
       "address": "0x46c9757C5497c5B1f2eb73aE79b6B67D119B0B58",
@@ -227,7 +226,7 @@
       "address": "0xE2702Bd97ee33c88c8f6f92DA3B733608aa76F71",
       "symbol": "cNGN",
       "decimals": 18,
-       "chainId": 42220,
+      "chainId": 42220,
       "logoURI": "https://cdn.prod.website-files.com/652d421c1214a2eebd967f1d/683f4541f9707f702c94bb61_Celo%20Nigerian%20Naira.png"
     },
     {
@@ -235,7 +234,7 @@
       "address": "0x4c35853A3B4e647fD266f4de678dCc8fEC410BF6",
       "symbol": "cZARC",
       "decimals": 18,
-       "chainId": 42220,
+      "chainId": 42220,
       "logoURI": "https://cdn.prod.website-files.com/652d421c1214a2eebd967f1d/683f4544ca0bfbb620361cbe_Celo%20South%20African%20Randpng.png"
     },
     {
@@ -243,31 +242,31 @@
       "address": "0xc45eCF20f3CD864B32D9794d6f76814aE8892e20",
       "symbol": "cJPY",
       "decimals": 18,
-       "chainId": 42220,
+      "chainId": 42220,
       "logoURI": "https://cdn.prod.website-files.com/652d421c1214a2eebd967f1d/683f45415f3aad03b0c9fb66_Celo%20Japanese%20Yen.png"
     },
-   {
+    {
       "name": "Celo British Pound",
-      "address": "0xba3ae0F0A78579a5e8C4188dcde60DcCc0Dd4Fab",
+      "address": "0xccf663b1ff11028f0b19058d0f7b674004a40746",
       "symbol": "cGBP",
       "decimals": 18,
-       "chainId": 42220,
+      "chainId": 42220,
       "logoURI": "https://cdn.prod.website-files.com/652d421c1214a2eebd967f1d/683f4546f3cd583c3fad465c_Celo%20British%20Pound.png"
     },
-   {
+    {
       "name": "Celo Canadian Dollar",
-      "address": "0xba3ae0F0A78579a5e8C4188dcde60DcCc0Dd4Fab",
+      "address": "0xff4ab19391af240c311c54200a492233052b6325",
       "symbol": "cCAD",
       "decimals": 18,
-       "chainId": 42220,
+      "chainId": 42220,
       "logoURI": "https://cdn.prod.website-files.com/652d421c1214a2eebd967f1d/683f459d7c7347134117c0cb_Celo%20Canadian%20Dollar.png"
     },
-   {
+    {
       "name": "Celo Swiss Franc",
-      "address": "0xb55a79F398E759E43C95b979163f30eC87Ee131D",
+      "address": "0xb55a79f398e759e43c95b979163f30ec87ee131d",
       "symbol": "cCHF",
       "decimals": 18,
-       "chainId": 42220,
+      "chainId": 42220,
       "logoURI": "https://cdn.prod.website-files.com/652d421c1214a2eebd967f1d/683f45a0e318fa05f73c05be_Celo%20Swiss%20Franc.png"
     },
     {
@@ -275,23 +274,23 @@
       "address": "0x34fA24Edcf5099c6f7e9a89B557C5d766354598E",
       "symbol": "NATURE",
       "decimals": 18,
-       "chainId": 42220,
+      "chainId": 42220,
       "logoURI": "https://cdn.prod.website-files.com/652d421c1214a2eebd967f1d/683f72c7f057f3c927e754f2_nature.png"
     },
-   {
+    {
       "name": "Uniswap",
-      "address": "0xba3ae0F0A78579a5e8C4188dcde60DcCc0Dd4Fab",
+      "address": "0xeE571697998ec64e32B57D754D700c4dda2f2a0e",
       "symbol": "UNI",
       "decimals": 18,
-       "chainId": 42220,
+      "chainId": 42220,
       "logoURI": "https://cdn.prod.website-files.com/652d421c1214a2eebd967f1d/683f45a28570e37807c84ab6_uniswap.png"
     },
-   {
+    {
       "name": "Regen Network",
-      "address": "0xba3ae0F0A78579a5e8C4188dcde60DcCc0Dd4Fab",
+      "address": "0x2E6C05f1f7D1f4Eb9A088bf12257f1647682b754",
       "symbol": "REGEN",
       "decimals": 6,
-       "chainId": 42220,
+      "chainId": 42220,
       "logoURI": "https://cdn.prod.website-files.com/652d421c1214a2eebd967f1d/683f45a4bbeb6397c00dd1a5_Regen%20Network.png"
     },
     {
@@ -299,31 +298,31 @@
       "address": "0xba3ae0F0A78579a5e8C4188dcde60DcCc0Dd4Fab",
       "symbol": "waCelUSDC",
       "decimals": 6,
-       "chainId": 42220,
+      "chainId": 42220,
       "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694"
-    }, 
+    },
     {
       "name": "Prime (Wormhole)",
       "address": "0xBc440BB632ac311F8877dEE23e77ddb1065703B7",
       "symbol": "D2D",
       "decimals": 18,
-       "chainId": 42220,
+      "chainId": 42220,
       "logoURI": "https://cdn.prod.website-files.com/652d421c1214a2eebd967f1d/683f45a6b3922038fc20fd2a_Prime.png"
-    }, 
-  {
+    },
+    {
       "name": "Ethix (Wormhole)",
       "address": "0x9995cc8F20Db5896943Afc8eE0ba463259c931ed",
       "symbol": "ETHIX",
       "decimals": 18,
-       "chainId": 42220,
+      "chainId": 42220,
       "logoURI": "https://cdn.prod.website-files.com/652d421c1214a2eebd967f1d/683f44a113d13c415707d4b9_ETHIX_icon_256x256-256.png"
-    }, 
+    },
     {
       "name": "Wrapped Aave Celo USDT",
       "address": "0x5264B1F45616dB619Bb3c8DCeBD86fB33FA0e53F",
       "symbol": "waCelUSDT",
       "decimals": 6,
-       "chainId": 42220,
+      "chainId": 42220,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
     }
   ]
