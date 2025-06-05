@@ -39,7 +39,7 @@
     },
     {
       "name": "Nature Carbon Tonne",
-      "address": "0x02de4766c272abc10bc88c220d214a26960a7e92",
+      "address": "0x02De4766C272abc10Bc88c220D214A26960a7e92",
       "symbol": "NCT",
       "decimals": 18,
       "chainId": 42220,
@@ -143,7 +143,7 @@
     },
     {
       "name": "JumpToken",
-      "address": "0x1d18d0386f51ab03e7e84e71bda1681eba865f1f",
+      "address": "0x1d18d0386F51ab03E7E84E71BdA1681EbA865F1f",
       "symbol": "JMPT",
       "decimals": 18,
       "chainId": 42220,
@@ -151,7 +151,7 @@
     },
     {
       "name": "Glo Dollar",
-      "address": "0x4f604735c1cf31399c6e711d5962b2b3e0225ad3",
+      "address": "0x4F604735c1cF31399C6E711D5962b2B3E0225AD3",
       "symbol": "USDGLO",
       "decimals": 18,
       "chainId": 42220,
@@ -215,7 +215,7 @@
     },
     {
       "name": "Celo Ghanaian Cedi",
-      "address": "0xfaea5f3404bba20d3cc2f8c4b0a888f55a3c7313",
+      "address": "0xfAeA5F3404bbA20D3cc2f8C4B0A888F55a3c7313",
       "symbol": "cGHS",
       "decimals": 18,
       "chainId": 42220,
@@ -247,7 +247,7 @@
     },
     {
       "name": "Celo British Pound",
-      "address": "0xccf663b1ff11028f0b19058d0f7b674004a40746",
+      "address": "0xCCF663b1fF11028f0b19058d0f7B674004a40746",
       "symbol": "cGBP",
       "decimals": 18,
       "chainId": 42220,
@@ -255,7 +255,7 @@
     },
     {
       "name": "Celo Canadian Dollar",
-      "address": "0xff4ab19391af240c311c54200a492233052b6325",
+      "address": "0xff4Ab19391af240c311c54200a492233052B6325",
       "symbol": "cCAD",
       "decimals": 18,
       "chainId": 42220,
@@ -263,7 +263,7 @@
     },
     {
       "name": "Celo Swiss Franc",
-      "address": "0xb55a79f398e759e43c95b979163f30ec87ee131d",
+      "address": "0xb55a79F398E759E43C95b979163f30eC87Ee131D",
       "symbol": "cCHF",
       "decimals": 18,
       "chainId": 42220,
