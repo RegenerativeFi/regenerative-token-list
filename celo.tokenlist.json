@@ -285,6 +285,14 @@
       "chainId": 42220,
       "logoURI": "https://cdn.prod.website-files.com/652d421c1214a2eebd967f1d/683f45a28570e37807c84ab6_uniswap.png"
     },
+     {
+      "name": "WETH",
+      "address": "0xD221812de1BD094f35587EE8E174B07B6167D9Af",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 42220,
+      "logoURI": "https://cdn.prod.website-files.com/652d421c1214a2eebd967f1d/687958be0a32d84e8d9f19b1_weth1701090834118.png"
+    },
     {
       "name": "Regen Network",
       "address": "0x2E6C05f1f7D1f4Eb9A088bf12257f1647682b754",
