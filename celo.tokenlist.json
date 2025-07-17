@@ -326,6 +326,22 @@
       "logoURI": "https://cdn.prod.website-files.com/652d421c1214a2eebd967f1d/683f44a113d13c415707d4b9_ETHIX_icon_256x256-256.png"
     },
     {
+      "name": "AAVE",
+      "address": "0xF6A54aff8c97f7AF3CC86dbaeE88aF6a7AaB6288",
+      "symbol": "AAVE",
+      "decimals": 18,
+      "chainId": 42220,
+      "logoURI": "https://cdn.prod.website-files.com/652d421c1214a2eebd967f1d/68795941d5fa1ba96e2e0677_images.png"
+    },
+    {
+      "name": "Gitcoin",
+      "address": "0xA80e318DC786c58b8BCB692579764F56F89Ab27e",
+      "symbol": "GTC",
+      "decimals": 18,
+      "chainId": 42220,
+      "logoURI": "https://cdn.prod.website-files.com/652d421c1214a2eebd967f1d/6879593de4f5d47e5f31fd4d_gitcoin.png"
+    },
+    {
       "name": "Wrapped Aave Celo USDT",
       "address": "0x5264B1F45616dB619Bb3c8DCeBD86fB33FA0e53F",
       "symbol": "waCelUSDT",
